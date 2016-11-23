@@ -8,4 +8,4 @@ for i in range(5):
         minimum = minimum + int(numbers[i])
     if i !=0 :
         maximum = maximum + int(numbers[i])
-print(minimum , maximum)
+print(minimum, maximum)
